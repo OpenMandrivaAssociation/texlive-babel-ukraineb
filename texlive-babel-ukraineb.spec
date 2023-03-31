@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-babel-ukraineb
 Version:	20131013
-Release:	10
+Release:	11
 Summary:	TeXLive babel-ukraineb package
 Group:		Publishing
 URL:		http://tug.org/texlive
